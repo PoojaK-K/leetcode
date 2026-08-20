@@ -13,7 +13,7 @@ class Solution {
 
             int row = -1;
 
-            for (int i = 0; i < 4; i++) {
+            for (int i = 0; i < 3; i++) {
                 if (rows[i].indexOf(w.charAt(0)) != -1) {
                     row = i;
                     break;
