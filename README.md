@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/PoojaK-K/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/PoojaK-K/leetcode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/PoojaK-K/leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/PoojaK-K/leetcode/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 ## Trie
