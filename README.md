@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/PoojaK-K/leetcode/tree/master/0071-simplify-path) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/PoojaK-K/leetcode/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/PoojaK-K/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
