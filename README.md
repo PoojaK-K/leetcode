@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PoojaK-K/leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PoojaK-K/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/PoojaK-K/leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 ## Matrix
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/PoojaK-K/leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
 ## Tree
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/PoojaK-K/leetcode/tree/master/0061-rotate-list) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
