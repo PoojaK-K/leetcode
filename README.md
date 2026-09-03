@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/PoojaK-K/leetcode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/PoojaK-K/leetcode/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/PoojaK-K/leetcode/tree/master/0504-base-7) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/PoojaK-K/leetcode/tree/master/0504-base-7) |
 <!---LeetCode Topics End-->
