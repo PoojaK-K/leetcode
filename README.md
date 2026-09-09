@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PoojaK-K/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/PoojaK-K/leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/PoojaK-K/leetcode/tree/master/0090-subsets-ii) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PoojaK-K/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PoojaK-K/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/PoojaK-K/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/PoojaK-K/leetcode/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/PoojaK-K/leetcode/tree/master/0504-base-7) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PoojaK-K/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PoojaK-K/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
