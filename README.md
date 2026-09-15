@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/PoojaK-K/leetcode/tree/master/0090-subsets-ii) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 ## Matrix
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
 ## Math
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
