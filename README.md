@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PoojaK-K/leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/PoojaK-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PoojaK-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/PoojaK-K/leetcode/tree/master/0072-edit-distance) |
 ## Greedy
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PoojaK-K/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
