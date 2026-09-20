@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/PoojaK-K/leetcode/tree/master/0090-subsets-ii) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PoojaK-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/PoojaK-K/leetcode/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
