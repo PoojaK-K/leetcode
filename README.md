@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/PoojaK-K/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/PoojaK-K/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/PoojaK-K/leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/PoojaK-K/leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/PoojaK-K/leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PoojaK-K/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
