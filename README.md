@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/PoojaK-K/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/PoojaK-K/leetcode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/PoojaK-K/leetcode/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/PoojaK-K/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/PoojaK-K/leetcode/tree/master/1341-movie-rating) |
 | [1527-patients-with-a-condition](https://github.com/PoojaK-K/leetcode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/PoojaK-K/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
