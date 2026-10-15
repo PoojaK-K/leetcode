@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/PoojaK-K/leetcode/tree/master/0090-subsets-ii) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/PoojaK-K/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
+| [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
 ## Math
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/PoojaK-K/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/PoojaK-K/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/PoojaK-K/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
