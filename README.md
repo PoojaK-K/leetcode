@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PoojaK-K/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/PoojaK-K/leetcode/tree/master/0090-subsets-ii) |
+| [0485-max-consecutive-ones](https://github.com/PoojaK-K/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
 ## Matrix
