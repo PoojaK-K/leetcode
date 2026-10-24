@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/PoojaK-K/leetcode/tree/master/0072-edit-distance) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/PoojaK-K/leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/PoojaK-K/leetcode/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
