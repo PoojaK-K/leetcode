@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PoojaK-K/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/PoojaK-K/leetcode/tree/master/0070-climbing-stairs) |
 | [0504-base-7](https://github.com/PoojaK-K/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/PoojaK-K/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PoojaK-K/leetcode/tree/master/0509-fibonacci-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PoojaK-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PoojaK-K/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/PoojaK-K/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PoojaK-K/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/PoojaK-K/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/PoojaK-K/leetcode/tree/master/0509-fibonacci-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PoojaK-K/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PoojaK-K/leetcode/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
