@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PoojaK-K/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PoojaK-K/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/PoojaK-K/leetcode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/PoojaK-K/leetcode/tree/master/0141-linked-list-cycle) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
@@ -98,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PoojaK-K/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/PoojaK-K/leetcode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/PoojaK-K/leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/PoojaK-K/leetcode/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/PoojaK-K/leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PoojaK-K/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
