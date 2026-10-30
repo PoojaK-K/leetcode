@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/PoojaK-K/leetcode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/PoojaK-K/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/PoojaK-K/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/PoojaK-K/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PoojaK-K/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/PoojaK-K/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/PoojaK-K/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PoojaK-K/leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/PoojaK-K/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaK-K/leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
@@ -212,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PoojaK-K/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
