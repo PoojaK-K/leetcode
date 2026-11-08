@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PoojaK-K/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/PoojaK-K/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
+| [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PoojaK-K/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/PoojaK-K/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PoojaK-K/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PoojaK-K/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/PoojaK-K/leetcode/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/PoojaK-K/leetcode/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaK-K/leetcode/tree/master/0200-number-of-islands) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PoojaK-K/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,10 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaK-K/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PoojaK-K/leetcode/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -246,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PoojaK-K/leetcode/tree/master/0141-linked-list-cycle) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
