@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/PoojaK-K/leetcode/tree/master/0506-relative-ranks) |
 | [1267-count-servers-that-communicate](https://github.com/PoojaK-K/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PoojaK-K/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PoojaK-K/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PoojaK-K/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2747-count-zero-request-servers](https://github.com/PoojaK-K/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PoojaK-K/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/PoojaK-K/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/PoojaK-K/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PoojaK-K/leetcode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PoojaK-K/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PoojaK-K/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PoojaK-K/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PoojaK-K/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/PoojaK-K/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/PoojaK-K/leetcode/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/PoojaK-K/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PoojaK-K/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PoojaK-K/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/PoojaK-K/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
@@ -293,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PoojaK-K/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PoojaK-K/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
